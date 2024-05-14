@@ -1,0 +1,14 @@
+include "BaseTypes.fbs";
+
+namespace Veneris.Communications;
+
+attribute "priority"; // Necesario al pasar el binario en "runtime"
+
+table RegisterTransmitterGain {
+	txId: int;
+	gainId: int;
+}
+
+root_type RegisterTransmitterGain;
+
+

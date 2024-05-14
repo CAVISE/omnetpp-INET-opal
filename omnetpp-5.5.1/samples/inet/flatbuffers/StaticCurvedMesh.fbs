@@ -1,0 +1,18 @@
+include "BaseTypes.fbs";
+
+namespace Veneris.Communications;
+
+attribute "priority"; 
+
+table StaticCurvedMesh {
+	transform:Matrix4x4;
+	vertices:[Vec3];
+	indexes:[int];
+	material: MaterialEMP;
+	pd1:[Vec4];
+	pd2:[Vec4];
+	singleFace: bool;
+	faceId: int;
+}
+
+root_type StaticCurvedMesh;

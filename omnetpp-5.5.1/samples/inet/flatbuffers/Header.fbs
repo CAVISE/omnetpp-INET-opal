@@ -1,0 +1,13 @@
+include "BaseTypes.fbs";
+
+namespace Veneris.Communications;
+
+attribute "priority"; // Necesario al pasar el binario en "runtime"
+
+table Header{
+	type: VenerisMessageTypes; //See BaseTypes.fbs 
+	size:uint; 
+	time:float; 
+}
+
+root_type Header;

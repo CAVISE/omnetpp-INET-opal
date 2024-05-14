@@ -1,0 +1,70 @@
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.077: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.077: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.077: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.077: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.104: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.104: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.105: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.105: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.105: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.105: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.123: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.123: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.138: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.138: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.140: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.140: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.141: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.141: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.161: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.161: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.161: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.161: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.162: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.162: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.174: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): GLib-CRITICAL **: 20:22:10.174: g_base64_encode_step: assertion 'in != NULL' failed
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -4 (allocation 2, extents 3x3) while allocating gadget (node progressbar, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -2 (allocation 0, extents 1x1) while allocating gadget (node trough, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -4 (allocation 2, extents 3x3) while allocating gadget (node progressbar, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -2 (allocation 0, extents 1x1) while allocating gadget (node trough, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -4 (allocation 2, extents 3x3) while allocating gadget (node progressbar, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -2 (allocation 0, extents 1x1) while allocating gadget (node trough, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -4 (allocation 2, extents 3x3) while allocating gadget (node progressbar, owner GtkProgressBar)
+
+(OMNeT++ IDE:24872): Gtk-WARNING **: 20:23:33.076: Negative content width -2 (allocation 0, extents 1x1) while allocating gadget (node trough, owner GtkProgressBar)
+log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+log4j:WARN Please initialize the log4j system properly.

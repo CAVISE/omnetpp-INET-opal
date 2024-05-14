@@ -1,0 +1,21 @@
+include "BaseTypes.fbs";
+
+namespace Veneris.Communications;
+
+attribute "priority"; 
+
+table OpalEdge {
+	p: Vec3;
+	v: Vec3;
+	face_a: Vec3;
+	face_b: Vec3;
+	normal_a: Vec3;
+	normal_b: Vec3;
+	material: MaterialEMP;
+        faid: uint;
+	fbid: uint;
+	id: int;
+
+}
+
+root_type OpalEdge;

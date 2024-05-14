@@ -1,0 +1,21 @@
+include "BaseTypes.fbs";
+
+namespace Veneris.Communications;
+
+attribute "priority"; 
+table ConfigOpal {
+	frequency:float;
+	simType:int;
+	computeMode: int;
+	maxReflections:uint;
+	useExactSpeedOfLight:bool;
+	useDiffraction:bool;
+	enableFastMath:bool;
+	generateRaysOnLaunch:bool;
+	multiGPU:bool;
+	logTrace:bool;
+	multiTransmitter:bool;
+	useAntennaGain:bool;
+        minEpsilon:float;
+}
+root_type ConfigOpal;

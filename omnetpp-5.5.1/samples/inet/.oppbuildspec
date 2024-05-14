@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<buildspec version="4.0">
+    <dir path="." type="custom"/>
+    <dir makemake-options="--make-so --deep -o INET -O out -pINET -I/usr/local/cuda-10.1/include -I/home/garik/CAVISE/Opal-standalone/opal/NVIDIA-OptiX-SDK-6.5.0-linux64/SDK/opal -I/usr/lib/x86_64-linux-gnu -I/home/garik/CAVISE/Opal-standalone/opal/NVIDIA-OptiX-SDK-6.5.0-linux64/include -lboost_system -lopal_s -lcudart --meta:export-include-path --meta:export-library --meta:use-exported-libs --meta:feature-cflags --meta:feature-ldflags" path="src" type="makemake"/>
+</buildspec>
